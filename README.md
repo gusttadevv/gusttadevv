@@ -8,5 +8,5 @@
 ### Best Areas
 
 <DIV>
-            <i class="devicon-html5-plain"></i>
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </DIV>

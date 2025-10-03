@@ -16,7 +16,7 @@
 ### Contacts
 
 <div>
-            <a href="https://discord.com/users/dw.g1000">
+            <a href="https://discord.com/users/1373372492139331675">
                         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
             </a>
             <a href="https://t.me/gusttadev">
